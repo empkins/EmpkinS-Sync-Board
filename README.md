@@ -1,1 +1,1 @@
-# EmpkinS-Sync-Board
+# EmpkinS Sync Board
