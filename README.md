@@ -7,6 +7,7 @@ Welcome to the Open Sync Board project, an open source framework for **hardware-
 - Graphical User Interface for configuring and operating the PCB: [https://github.com/empkins/open-sync-board-gui](https://github.com/empkins/open-sync-board-gui)
 - Python package to align recorded data based on the synchronization signal: [https://github.com/empkins/empkins-io/tree/main](https://github.com/empkins/empkins-io/tree/main)
 - Examples on usage of the postprocessing module: [https://github.com/empkins/empkins-io/blob/main/examples/synchronization/Synchronization.ipynb](https://github.com/empkins/empkins-io/blob/main/examples/synchronization/Synchronization.ipynb)
+- Quality Control Data: [https://github.com/empkins/open-sync-board-supplementary-material](https://github.com/empkins/open-sync-board-supplementary-material)
 
 
 <img src="./img/ESB_connected.png" width="400" alt="Picture of OSB with Connectors">
